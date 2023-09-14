@@ -1,6 +1,6 @@
 👋 Olá! Eu sou Igor Prado, um apaixonado por tecnologia e desenvolvimento de software.
 
-🔭 Interesses: Estou constantemente explorando o mundo da tecnologia e sou particularmente apaixonado por:
+🔭 Interesses: Estou constantemente explorando o mundo da tecnologia e sou particularmente apaixonado por:/n
 
 Linguagens de Programação: Python e Flutter.
 Design de Interfaces: Adoro criar interfaces intuitivas e agradáveis para os usuários.
