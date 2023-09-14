@@ -2,7 +2,7 @@
 
 🔭 Interesses: Estou constantemente explorando o mundo da tecnologia e sou particularmente apaixonado por:/n
 
-Linguagens de Programação: Python e Flutter.
+Linguagens de Programação: Python e Flutter./n
 Design de Interfaces: Adoro criar interfaces intuitivas e agradáveis para os usuários.
 Frontend Development: Tenho um interesse especial no desenvolvimento frontend de aplicativos e websites.
 🌱 Aprendizado Atual: Atualmente, estou focado em aprimorar minhas habilidades em Python e Flutter, e estou sempre em busca de novos desafios para aprender e crescer.
