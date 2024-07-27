@@ -18,4 +18,5 @@ E-mail: igor.uba1997@gmail.com
 
 WhatsApp: (012) 99771-1629
 
-LinkedIn: linkedin.com/in/igor-prado-172a9a20b
+LinkedIn: wwww.linkedin.com/in/igorprado012
+
