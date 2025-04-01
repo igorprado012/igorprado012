@@ -1,22 +1,29 @@
-👋 Olá! Eu sou Igor Prado, um apaixonado por tecnologia e desenvolvimento de software.
+👋 Olá! Eu sou Igor Prado
 
-🔭 Interesses: Estou constantemente explorando o mundo da tecnologia e sou particularmente apaixonado por:
+Apaixonado por tecnologia e desenvolvimento de software, sempre buscando novos desafios e aprendizados!
 
-Linguagens de Programação: Python e Flutter.
+🚀 Sobre mim
 
-Design de Interfaces: Adoro criar interfaces intuitivas e agradáveis para os usuários.
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-Frontend Development: Tenho um interesse especial no desenvolvimento frontend de aplicativos e websites.
+📚 Estudando Engenharia de Software.
 
-🌱 Aprendizado Atual: Atualmente, estou focado em aprimorar minhas habilidades em Python e Flutter, e estou sempre em busca de novos desafios para aprender e crescer.
+💻 Experiência com suporte técnico, redes e desenvolvimento.
 
-💼 Colaboração: Estou procurando oportunidades de estágio para adquirir experiência prática e contribuir para projetos emocionantes.
+🔧 Conhecimento em HTML, CSS, JavaScript, Python e Flutter/Dart.
 
-📫 Contato:
+🎨 Interesse em UX/UI Design e otimização de interfaces.
 
-E-mail: igor.uba1997@gmail.com
+🔥 Projetos
 
-WhatsApp: (012) 99771-1629
+🃏 Loja de Cartas Pokémon TCG - Meu primeiro projeto pessoal em UX/UI Design.
 
-LinkedIn: wwww.linkedin.com/in/igorprado012
+📱 App para Loja de Card Games - Desenvolvido em Flutter/Dart em parceria com Emerson Bezerra.
 
+📫 Contato
+
+📧 E-mail: igor.uba1997@gmail.com
+
+📱 WhatsApp: (12) 99771-1629
+
+🔗 LinkedIn: linkedin.com/in/igorprado012
